@@ -12,4 +12,4 @@ hello sam, today is friday
 hello sam, today is friday
 hello sam, today is friday
 hello sam, today is friday master test
-hello sam, today is friday
+hello sam, today is friday hot-fix test
